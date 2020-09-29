@@ -1,0 +1,31 @@
+{
+  "name": "game-lib",
+  "main": "index.js",
+  "homepage": "https://github.com/cosmicfate/game-lib",
+  "authors": [
+    "cosmicfate <dylanronquille@gmail.com>"
+  ],
+  "description": "hi",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "835edde79ee10d86e52db79a310070cba01d1b1d"
+  },
+  "_source": "https://github.com/cosmicfate/game-lib.git",
+  "_target": "^0.0.1",
+  "_originalSource": "https://github.com/cosmicfate/game-lib.git",
+  "_direct": true
+}
